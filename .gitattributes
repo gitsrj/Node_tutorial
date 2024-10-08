@@ -1,4 +1,7 @@
+# Auto detect text files and convert line endings
 * text=auto
+
+# Set specific line endings for certain file types
 *.js text eol=lf
 *.json text eol=lf
 *.md text eol=lf
